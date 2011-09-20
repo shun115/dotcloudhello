@@ -1,0 +1,5 @@
+www:
+  type: python
+  approot: app
+data:
+  type: mongodb
